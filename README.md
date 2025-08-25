@@ -1,20 +1,20 @@
-# Lab 4: Discrete Fourier Transform and Fast Fourier Transform Algorithms (Week 1)
+# Lab 6: Discrete Fourier Transform
 
 ## Getting Started
 
 1. Clone the repository by running the command
 
     ```bash
-    git clone https://github.com/Purdue-ECE438-Labs/lab06a-<github_username>.git  # using web URL
+    git clone https://github.com/Purdue-ECE438-Labs/lab6-<github_username>.git  # using web URL
     # or
-    git clone git@github.com:Purdue-ECE438-Labs/lab06a-<github_username>.git  # using SSH
+    git clone git@github.com:Purdue-ECE438-Labs/lab6-<github_username>.git  # using SSH
     ```
 
-2. Lab instructions can be found in [`lab06a_instructions.pdf`](lab06a_instructions.pdf).
+2. Lab instructions can be found in [`lab6_instructions.pdf`](lab6_instructions.pdf).
 
-3. Complete the individual lab report `lab06a_individual_report.ipynb`.
+3. Complete the individual lab report `lab6_individual_report.ipynb`.
 
-4. If you are in a group of more than 1, work with your group member(s) to complete the final lab report `lab06a_final_report.ipynb`.
+4. If you are in a group of more than 1, work with your group member(s) to complete the final lab report `lab6_final_report.ipynb`.
 
 ## Special Instructions
 
@@ -30,7 +30,7 @@ To insert an image (e.g., `image.png`) in your report
 
 ### Individual Code Submission
 
-In your terminal, change current directory to `lab06a-<github_username>`.
+In your terminal, change current directory to `lab6-<github_username>`.
 
 ```bash
 git add -A 
@@ -40,7 +40,7 @@ git push
 
 ### Group Lab Report Submission
 
-1. Open `lab06a_final_report.ipynb`.
+1. Open `lab6_final_report.ipynb`.
 
 2. Export it as a PDF file.
     * Ctrl + P (Windows) or Cmd + P (MacOS)
